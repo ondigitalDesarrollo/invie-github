@@ -8,3 +8,12 @@ img{
     margin: 0 auto;
     vertical-align: top;
 }
+#responsive{ display: none;}
+
+
+@media screen and (max-width:768px){
+    #responsive{
+        display: block;
+    }
+    img.hidden{ display: none;}
+}
