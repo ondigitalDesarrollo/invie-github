@@ -8,3 +8,7 @@ img{
     margin: 0 auto;
     vertical-align: top;
 }
+
+img{
+    border: 1px solid peru;
+}
