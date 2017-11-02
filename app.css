@@ -17,3 +17,7 @@ img{
     }
     img.hidden{ display: none;}
 }
+
+p::after{
+    content: "hola"
+}
